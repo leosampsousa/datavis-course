@@ -1,3 +1,8 @@
+## Aula do dia 09/10/2019
+[network.html](d3_network/network.html)<br>
+[miserables.html](d3_network/miserables.html)<br>
+
+
 ## Aula do dia 30
 [leaflet.html](d3_leaflet/leaflet.html)<br> 
 [crimes_chicago.html](d3_leaflet/crimes_chicago.html)<br> 
